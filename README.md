@@ -1,2 +1,0 @@
-# howToMakeAPizza
-howToMakeAPizza.md
